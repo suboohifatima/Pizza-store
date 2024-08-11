@@ -1,0 +1,7 @@
+{
+    "pizzas": [
+      { "id": 1, "name": "Margherita", "description": "Classic cheese and tomato", "price": 5.99 },
+      { "id": 2, "name": "Pepperoni", "description": "Pepperoni and cheese", "price": 6.99 }
+    ]
+  }
+  
